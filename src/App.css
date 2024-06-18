@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+  color: green;
+}
+button {
+  text-align: center;
+  color: blueviolet;
+}
+.name {
+  text-align: center;
+}
+input:hover {
+  border-color: red;
+} 
+.userdata {
+  border: 1px;
+  text-align: center;
+  padding: 10%;
+  margin-top: 10px;
+  background-color: aqua;
+  color: black;
+}
